@@ -1,8 +1,7 @@
 Git Sandbox
 ================
 
-![image of a
-sandpit](https://www.stihl.com/p/images/header_490x170/I-SANDKASTEN_BAUEN-IM-025_rdax_65.jpg)
+![](https://www.stihl.com/p/images/header_490x170/I-SANDKASTEN_BAUEN-IM-025_rdax_65.jpg)
 
 ## What?
 
@@ -11,7 +10,7 @@ new tricks and to show clients who are less familiar with Git workflows
 how this all works.
 
 It also includes [a guide for troubleshooting common
-issues](troubleshooting/debug-avenues.Rmd).
+issues](troubleshooting/README.md).
 
 ## Why?
 

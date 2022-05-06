@@ -8,14 +8,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![image of a sandpit](https://www.stihl.com/p/images/header_490x170/I-SANDKASTEN_BAUEN-IM-025_rdax_65.jpg)
+![](https://www.stihl.com/p/images/header_490x170/I-SANDKASTEN_BAUEN-IM-025_rdax_65.jpg)
+
 
 
 ## What?
 
 This repo is purely to practice / test git commands. We use it to learn new tricks and to show clients who are less familiar with Git workflows how this all works. 
 
-It also includes [a guide for troubleshooting common issues](troubleshooting/debug-avenues.Rmd).
+It also includes [a guide for troubleshooting common issues](troubleshooting/README.md).
 
 ## Why?
 
